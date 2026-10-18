@@ -1,87 +1,76 @@
-# Edara Karthik | Developer Portfolio
+# 👋 Hi, I'm Edara Karthik
 
-Welcome to my developer portfolio! I'm focused on Java backend and full-stack development, building web applications using Java, Spring Boot, REST APIs, and MySQL. I also have an interest in automation testing with Selenium.
+### Java Full Stack Developer | Spring Boot | REST APIs | React | MySQL
 
-## About Me
+Welcome to my GitHub! I'm focused on developing Java backend and full-stack applications, building REST APIs, and working with relational databases.
 
-* 💻 Interested in Java Backend and Full Stack Development
-* ☕ Working with Java and Spring Boot
-* 🔗 Learning and building RESTful APIs
-* 🗄️ Working with MySQL databases
-* 🧪 Interested in automation testing using Selenium
-* 🚀 Focused on building practical projects and improving my development skills
+## 🚀 About Me
 
-## Technologies & Tools
+* 💻 Interested in Java backend and full-stack development.
+* ☕ Working with Java and Spring Boot.
+* 🔗 Learning and developing RESTful APIs.
+* 🗄️ Working with MySQL databases.
+* ⚛️ Exploring frontend development with React.
+* 🧪 Interested in software testing and automation.
+* 📈 Continuously improving my programming and problem-solving skills.
 
-**Programming Languages**
+## 🛠️ Technical Skills
 
-* Java
-* JavaScript
-* TypeScript
+| Category    | Technologies                        |
+| ----------- | ----------------------------------- |
+| Programming | Java, JavaScript, TypeScript        |
+| Backend     | Spring Boot, Spring JDBC, REST APIs |
+| Frontend    | React, HTML, CSS, JSP               |
+| Database    | MySQL                               |
+| Testing     | Selenium, TestNG                    |
+| Tools       | Git, GitHub, Maven, VS Code         |
 
-**Backend Development**
-
-* Spring Boot
-* Spring JDBC
-* REST APIs
-
-**Frontend Development**
-
-* React
-* HTML
-* CSS
-* JSP
-* Bootstrap
-
-**Database**
-
-* MySQL
-
-**Testing**
-
-* Selenium
-* TestNG
-
-**Tools**
-
-* Git
-* GitHub
-* Maven
-* Visual Studio Code
-* IntelliJ IDEA
-
-## Featured Projects
+## 📂 Featured Projects
 
 ### 1. GETJOBS — Job Portal
 
 A Java-based job portal project using Spring Boot, JSP, and MySQL.
 
-* Repository: https://github.com/Edarakarthik-chowdary/getjobs-job-portal
+**Technologies:** Java, Spring Boot, JSP, MySQL
+
+[View Repository](https://github.com/Edarakarthik-chowdary/getjobs-job-portal)
 
 ### 2. JobPortle
 
-A Java and Spring Boot project.
+A Java project focused on job portal functionality.
 
-* Repository: https://github.com/Edarakarthik-chowdary/JobPortle
+**Technologies:** Java, Maven
 
-### 3. Developer Portfolio
+[View Repository](https://github.com/Edarakarthik-chowdary/JobPortle)
 
-A personal portfolio website built with React, TypeScript, and Vite.
+### 3. Portfolio Website
 
-* Repository: https://github.com/Edarakarthik-chowdary/karthik-portfoilo
+My personal developer portfolio.
 
-## What I'm Working Toward
+**Technologies:** JavaScript
 
-* Improving my Core Java and object-oriented programming skills
-* Building backend applications with Spring Boot
-* Developing and testing REST APIs
-* Strengthening SQL and database design skills
-* Learning application deployment and CI/CD workflows
+[View Repository](https://github.com/Edarakarthik-chowdary/Karthik-portfolIo)
 
-## Connect With Me
+### 4. E-commerce Multi-Vendor Application
 
-* **GitHub:** https://github.com/Edarakarthik-chowdary
+A full-stack multi-vendor e-commerce application.
+
+**Technologies:** React, Spring Boot, MySQL
+
+[View Repository](https://github.com/Edarakarthik-chowdary/EcommerceMultiVendor)
+
+## 🎯 Current Learning Goals
+
+* Strengthening Core Java and OOP concepts.
+* Building applications with Spring Boot.
+* Developing and testing REST APIs.
+* Improving SQL and database design.
+* Learning deployment and CI/CD workflows.
+
+## 📫 Connect With Me
+
+* **GitHub:** [Edara Karthik](https://github.com/Edarakarthik-chowdary)
 
 ---
 
-⭐ Thank you for visiting my portfolio!
+⭐ Thanks for visiting my profile!
