@@ -1,16 +1,87 @@
-# React + Vite
+# Edara Karthik | Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my developer portfolio! I'm focused on Java backend and full-stack development, building web applications using Java, Spring Boot, REST APIs, and MySQL. I also have an interest in automation testing with Selenium.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* 💻 Interested in Java Backend and Full Stack Development
+* ☕ Working with Java and Spring Boot
+* 🔗 Learning and building RESTful APIs
+* 🗄️ Working with MySQL databases
+* 🧪 Interested in automation testing using Selenium
+* 🚀 Focused on building practical projects and improving my development skills
 
-## React Compiler
+## Technologies & Tools
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Programming Languages**
 
-## Expanding the ESLint configuration
+* Java
+* JavaScript
+* TypeScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Backend Development**
+
+* Spring Boot
+* Spring JDBC
+* REST APIs
+
+**Frontend Development**
+
+* React
+* HTML
+* CSS
+* JSP
+* Bootstrap
+
+**Database**
+
+* MySQL
+
+**Testing**
+
+* Selenium
+* TestNG
+
+**Tools**
+
+* Git
+* GitHub
+* Maven
+* Visual Studio Code
+* IntelliJ IDEA
+
+## Featured Projects
+
+### 1. GETJOBS — Job Portal
+
+A Java-based job portal project using Spring Boot, JSP, and MySQL.
+
+* Repository: https://github.com/Edarakarthik-chowdary/getjobs-job-portal
+
+### 2. JobPortle
+
+A Java and Spring Boot project.
+
+* Repository: https://github.com/Edarakarthik-chowdary/JobPortle
+
+### 3. Developer Portfolio
+
+A personal portfolio website built with React, TypeScript, and Vite.
+
+* Repository: https://github.com/Edarakarthik-chowdary/karthik-portfoilo
+
+## What I'm Working Toward
+
+* Improving my Core Java and object-oriented programming skills
+* Building backend applications with Spring Boot
+* Developing and testing REST APIs
+* Strengthening SQL and database design skills
+* Learning application deployment and CI/CD workflows
+
+## Connect With Me
+
+* **GitHub:** https://github.com/Edarakarthik-chowdary
+
+---
+
+⭐ Thank you for visiting my portfolio!
